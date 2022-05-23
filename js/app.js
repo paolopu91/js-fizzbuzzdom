@@ -27,4 +27,11 @@ for(let i = 1;i <= 100; i++){
 </div>
 </div>`
 
+
+// si può fare anche in quest'altro modo 
+// nota che ho usato i + insieme ad apici"" e virgolette '' per concatenare l'elemento e la variabile
+
+{/* <div class="row justify-content-center align-items-center square fw-bold '" + bgDiv + "'  ">
+    "'+ text +'"
+</div> */}
 }
